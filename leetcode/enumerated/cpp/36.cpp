@@ -1,5 +1,11 @@
 // https://leetcode.com/problems/valid-sudoku/
 
+#include <unordered_set>
+#include <vector>
+
+using std::vector;
+using std::unordered_set;
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
