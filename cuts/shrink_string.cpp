@@ -1,3 +1,7 @@
+// The task is to write a method that takes a string like
+// 'aaaabbbccd' and returns a string like 'a4b3c2d'.
+// The method should throw an error on non-alphabetic characters.
+
 #include <string>
 #include <vector>
 

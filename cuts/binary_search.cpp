@@ -1,3 +1,5 @@
+// Binary search implementation in C++
+
 #include <vector>
 
 int binarySearch(std::vector<int> &arr, int target) {

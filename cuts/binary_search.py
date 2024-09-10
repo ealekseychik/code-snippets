@@ -1,3 +1,5 @@
+# Binary search implementation in Python
+
 def binarySearch(arr, low, high, x):
     while low <= high:
         mid = low + (high - low) // 2
